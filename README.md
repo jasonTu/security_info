@@ -8,6 +8,10 @@ Collecting security related knowledge and information
 * [百度百科：CSRF][2]
 * [Web安全之CSRF攻击][3]
 
+## SQL Injection
+* [使用PreparedStatement执行sql增、删、改、查语句][5]
+* [Golang Mysql笔记（三）--- Prepared剖析][6]
+
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
 
@@ -15,3 +19,5 @@ Collecting security related knowledge and information
 [2]: https://baike.baidu.com/item/CSRF/2735433?fr=aladdin
 [3]: https://www.cnblogs.com/lovesong/p/5233195.html
 [4]: https://crackstation.net/
+[5]: https://www.jianshu.com/p/84bcb6e1632b
+[6]: https://www.jianshu.com/p/ee0d2e7bef54
