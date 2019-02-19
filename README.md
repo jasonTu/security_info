@@ -11,6 +11,7 @@ Collecting security related knowledge and information
 ## SQL Injection
 * [使用PreparedStatement执行sql增、删、改、查语句][5]
 * [Golang Mysql笔记（三）--- Prepared剖析][6]
+* [SQL Injection Protection Filter][7]
 
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
@@ -21,3 +22,4 @@ Collecting security related knowledge and information
 [4]: https://crackstation.net/
 [5]: https://www.jianshu.com/p/84bcb6e1632b
 [6]: https://www.jianshu.com/p/ee0d2e7bef54
+[7]: https://techcommunity.softwareag.com/pwiki/-/wiki/Main/SQL+Injection+Protection+Filter/pop_up
