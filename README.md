@@ -15,6 +15,7 @@ Collecting security related knowledge and information
 
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
+* [Wikipedia: Email address format][8]
 
 [1]: https://www.cnblogs.com/phpstudy2015-6/p/6767032.html
 [2]: https://baike.baidu.com/item/CSRF/2735433?fr=aladdin
@@ -23,3 +24,4 @@ Collecting security related knowledge and information
 [5]: https://www.jianshu.com/p/84bcb6e1632b
 [6]: https://www.jianshu.com/p/ee0d2e7bef54
 [7]: https://techcommunity.softwareag.com/pwiki/-/wiki/Main/SQL+Injection+Protection+Filter/pop_up
+[8]: https://en.wikipedia.org/wiki/Email_address
