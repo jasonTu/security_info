@@ -15,6 +15,8 @@ Collecting security related knowledge and information
 
 ## Web Authentication
 * [JWT: JSON Web Token][9]
+* [API Keys vs OAuth Tokens vs JSON Web Tokens
+][12]
 * [基于Token的WEB后台认证机制][10]
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
 
@@ -33,3 +35,4 @@ Collecting security related knowledge and information
 [9]: https://jwt.io/
 [10]: https://blog.csdn.net/u011537073/article/details/52177204
 [11]: https://www.cnblogs.com/Irving/p/4964489.html
+[12]: https://zapier.com/engineering/apikey-oauth-jwt/
