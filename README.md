@@ -13,6 +13,9 @@ Collecting security related knowledge and information
 * [Golang Mysql笔记（三）--- Prepared剖析][6]
 * [SQL Injection Protection Filter][7]
 
+## Web Authentication
+* [JWT: JSON Web Token][9]
+
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
 * [Wikipedia: Email address format][8]
@@ -25,3 +28,4 @@ Collecting security related knowledge and information
 [6]: https://www.jianshu.com/p/ee0d2e7bef54
 [7]: https://techcommunity.softwareag.com/pwiki/-/wiki/Main/SQL+Injection+Protection+Filter/pop_up
 [8]: https://en.wikipedia.org/wiki/Email_address
+[9]: https://jwt.io/
