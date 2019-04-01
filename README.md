@@ -22,6 +22,8 @@ Collecting security related knowledge and information
 * [细说API – 认证、授权和凭证][13]
 * [Map of OAuth 2.0 Specs][14]
 * [OAuth 2.0 and OpenID Connection by Nate @OKTA ][15]
+* [SAML 2.0 Web Browser Single-Sign-On][16]
+* [[OIDC in Action] 1. 基于OIDC（OpenID Connect）的SSO][17]
 
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
@@ -42,3 +44,5 @@ Collecting security related knowledge and information
 [13]: https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 [14]: https://www.oauth.com/oauth2-servers/map-oauth-2-0-specs/
 [15]: https://www.youtube.com/watch?v=996OiexHze0
+[16]: https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/cwlp_saml_web_sso.html
+[17]: https://www.cnblogs.com/linianhui/p/oidc-in-action-sso.html
