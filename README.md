@@ -19,6 +19,7 @@ Collecting security related knowledge and information
 ][12]
 * [基于Token的WEB后台认证机制][10]
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
+* [细说API – 认证、授权和凭证][13]
 
 ## Utilities
 * [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'][4]
@@ -36,3 +37,4 @@ Collecting security related knowledge and information
 [10]: https://blog.csdn.net/u011537073/article/details/52177204
 [11]: https://www.cnblogs.com/Irving/p/4964489.html
 [12]: https://zapier.com/engineering/apikey-oauth-jwt/
+[13]: https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
