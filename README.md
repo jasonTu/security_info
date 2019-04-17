@@ -13,6 +13,9 @@ Collecting security related knowledge and information
 * [Golang Mysql笔记（三）--- Prepared剖析][6]
 * [SQL Injection Protection Filter][7]
 
+## Honey Pot
+* [网络蜜罐的前世今生][18]
+
 ## Web Authentication
 * [JWT: JSON Web Token][9]
 * [API Keys vs OAuth Tokens vs JSON Web Tokens
@@ -46,3 +49,4 @@ Collecting security related knowledge and information
 [15]: https://www.youtube.com/watch?v=996OiexHze0
 [16]: https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/cwlp_saml_web_sso.html
 [17]: https://www.cnblogs.com/linianhui/p/oidc-in-action-sso.html
+[18]: https://mp.weixin.qq.com/s/5QIkzKcZKjCjw6Dhfu4cbQ
